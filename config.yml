@@ -1,5 +1,5 @@
 # Site 网站
-title: 鱼!
+title: FishFish~!
 subtitle: 网站
 description: 只是一个备忘录, 用来记录一些我认为有用的东西
 language: zh-CN
@@ -7,7 +7,7 @@ timezone: Asia/Shanghai
 author: ly
 
 # 文章
-post_asset_folder: false
+post_asset_folder: true
 
 # 扩展
 theme: next
