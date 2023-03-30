@@ -7,7 +7,7 @@ timezone: Asia/Shanghai
 author: ly
 
 # 文章
-post_asset_folder: true
+post_asset_folder: false
 
 # 扩展
 theme: next
